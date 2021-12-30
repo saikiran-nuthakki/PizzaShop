@@ -17,7 +17,7 @@ public class SpecialityPizzaMenu {
     static float total;
 
     public static void main(String[] args) {
-        System.out.println("\nWelcome to Sike's Pizza of San Francisco!");
+        System.out.println("\nWelcome to Sike's Pizza!");
         System.out.println("\n*******************************************************");
         boolean boo = true;
         while (boo != false) {
@@ -28,7 +28,7 @@ public class SpecialityPizzaMenu {
             }
         }
         payment();
-        System.out.println("\nThank you for using Sike's Pizza of San Francisco's online ordering system. Please visit us again!\n");
+        System.out.println("\nThank you for using Sike's Pizza's online ordering system. Please visit us again!\n");
         System.out.println("*******************************************************");
     }
 
