@@ -1,15 +1,10 @@
 /*
 Author: Saikiran Nuthakki
-E-mail: sqn5261@psu.edu
-Course: CMPSC 221
-Assignment: Programming Assignment 2
-Due date: 2/14/2019
 File: SpecialityPizzaMenu.java
 Purpose: Java application that implements an online specialty pizza shop
 Compiler/IDE: IntelliJ IDEA
 Operating system: Mac OS Sierra
 Reference(s): Java 8 API - Oracle Documentation
-//https://stackoverflow.com/questions/12524243/how-do-i-make-java-register-a-string-input-with-spaces/12524285
 */
 
 package com.company;
